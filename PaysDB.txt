@@ -1,0 +1,9 @@
+﻿France
+Euro
+1.5
+Guinee
+FG
+3.14
+Senegal
+FCFA
+2.11
